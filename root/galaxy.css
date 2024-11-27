@@ -1,0 +1,70 @@
+/* ძირითადი სტილები */
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+/* სათაური */
+.title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 20px;
+    color: #00bfff; /* ნათელი ცისფერი */
+}
+
+/* სურათი */
+.galaxy-image {
+    display: block;
+    margin: 20px auto;
+    width: 40%; /* სურათის ზომა */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7); /* ჩრდილი */
+}
+
+/* აღწერა */
+.description {
+    font-size: 1.2rem;
+    text-align: center;
+    line-height: 1.5;
+    margin: 20px;
+    color: #e0e0e0; /* რბილი თეთრი */
+}
+
+/* ღილაკი */
+.back-button {
+    display: block;
+    width: 150px;
+    margin: 20px auto;
+    padding: 10px 15px;
+    text-align: right;
+    background-color: #00bfff;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+    background-color: #0086b3; /* მუქი ცისფერი */
+}
+.one-page {
+    text-align: center;
+    width: 400px;
+}
+.two-page {
+    text-align: center;
+    width: 400px;
+}
+.three-page {
+    text-align: center;
+    width: 400px;
+    
+}
+.four-page {
+    text-align: center;
+    width: 400px;
+}

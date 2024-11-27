@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+/* სათაური */
+.title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 20px;
+    color: #00bfff; /* ნათელი ცისფერი */
+}
+.one-page {
+    text-align: center;
+    width: 400px;
+}
+.two-page {
+    text-align: center;
+    width: 400px;
+}
+.three-page {
+    text-align: center;
+    width: 400px;
+    
+}
+.four-page {
+    text-align: center;
+    width: 400px;
+}
