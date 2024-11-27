@@ -1,0 +1,33 @@
+/* ძირითადი სტილები */
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+/* სათაური */
+.title {
+    text-align: center;
+    font-size: 3.0rem;
+    margin-top: 40px;
+    color: #00bfff; /* ნათელი ცისფერი */
+}
+.one-page {
+    text-align: center;
+    width: 400px;
+}
+.two-page {
+    text-align: center;
+    width: 400px;
+}
+.three-page {
+    text-align: center;
+    width: 400px;
+    
+}
+.four-page {
+    text-align: center;
+    width: 400px;
+}
